@@ -1,0 +1,15 @@
+<https://www.instagram.com/olgicaupcheva/> <http://xmlns.com/foaf/0.1/name> "Olgica Upcheva" .
+<https://www.instagram.com/r.temelkoska/> <http://xmlns.com/foaf/0.1/name> "Rosica Temelkoska" .
+<https://www.instagram.com/bosnakovad/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/vcard-rdf/3.0#FN> .
+<https://www.instagram.com/bosnakovad/> <http://xmlns.com/foaf/0.1/age> "22"^^<http://www.w3.org/2001/XMLSchema#int> .
+<https://www.instagram.com/bosnakovad/> <http://xmlns.com/foaf/0.1/based_near> "Skopje, Macedonia" .
+<https://www.instagram.com/bosnakovad/> <http://www.w3.org/2001/vcard-rdf/3.0#BDAY> "2001-12-23" .
+<https://www.instagram.com/bosnakovad/> <http://example.org#education> "FINKI" .
+<https://www.instagram.com/bosnakovad/> <http://xmlns.com/foaf/0.1/gender> "Female" .
+<https://www.instagram.com/bosnakovad/> <http://example.org#favoriteColor> "Pink" .
+<https://www.instagram.com/bosnakovad/> <http://www.w3.org/2001/vcard-rdf/3.0#FN> "Dragica Boshnakova" .
+<https://www.instagram.com/bosnakovad/> <http://www.w3.org/2001/vcard-rdf/3.0#NICKNAME> "Daci" .
+<https://www.instagram.com/bosnakovad/> <http://www.w3.org/2001/vcard-rdf/3.0#EMAIL> "dragica.boshnakova@students.finki.ukim.mk" .
+<https://www.instagram.com/bosnakovad/> <http://xmlns.com/foaf/0.1/knows> <https://www.instagram.com/r.temelkoska/> .
+<https://www.instagram.com/bosnakovad/> <http://xmlns.com/foaf/0.1/knows> <https://www.instagram.com/olgicaupcheva/> .
+<https://www.instagram.com/bosnakovad/> <http://www.w3.org/2001/vcard-rdf/3.0#TEL> "тел:+38970123456" .
